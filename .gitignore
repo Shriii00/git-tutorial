@@ -1,0 +1,8 @@
+# add test comment
+
+
+*.doc
+
+
+temp/
+build/
